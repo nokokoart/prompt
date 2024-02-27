@@ -1,7 +1,5 @@
 import { extendTheme, ThemeConfig } from '@chakra-ui/react';
 
-import '@fontsource/kanit';
-
 import { buttonTheme } from './components/button';
 import { formErrorTheme } from './components/formError';
 import { inputTheme } from './components/input';
@@ -22,8 +20,8 @@ const config: ThemeConfig = extendTheme({
     },
   },
   fonts: {
-    body: `'Kanit', sans-serif`,
-    heading: `'Kanit', sans-serif`,
+    body: `'Akira Expanded', sans-serif`,
+    heading: `'Akira Expanded', sans-serif`,
   },
   components: {
     Heading: {

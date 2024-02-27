@@ -20,9 +20,6 @@ dependencies:
   '@emotion/styled':
     specifier: ^11.11.0
     version: 11.11.0(@emotion/react@11.11.3)(@types/react@18.2.58)(react@18.2.0)
-  '@fontsource/kanit':
-    specifier: ^5.0.18
-    version: 5.0.18
   '@hookform/resolvers':
     specifier: ^3.3.4
     version: 3.3.4(react-hook-form@7.50.1)
@@ -1849,10 +1846,6 @@ packages:
 
   /@floating-ui/utils@0.2.1:
     resolution: {integrity: sha512-9TANp6GPoMtYzQdt54kfAyMmz1+osLlXdg2ENroU7zzrtflTLrrC/lgrIfaSe+Wu0b89GKccT7vxXA0MoAIO+Q==}
-    dev: false
-
-  /@fontsource/kanit@5.0.18:
-    resolution: {integrity: sha512-mvC19JOSxT1sbWtk+aOKXTvqqhHVXP9eCMiZNkU66amZ5kdY0bcctx5mLD7MpvEmcOjBYxpZGiK1pT+5hwChcA==}
     dev: false
 
   /@hookform/resolvers@3.3.4(react-hook-form@7.50.1):

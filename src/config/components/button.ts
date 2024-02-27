@@ -1,7 +1,7 @@
 import { defineStyle, defineStyleConfig } from '@chakra-ui/react';
 
 const baseStyle = defineStyle({
-  fontFamily: 'Kanit',
+  fontFamily: 'Akira Expanded',
   textTransform: 'uppercase',
 });
 

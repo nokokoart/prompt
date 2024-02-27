@@ -1,3 +1,12 @@
 #root {
   height: 100%;
 }
+
+@font-face {
+  font-family: 'Akira Expanded';
+  src:
+    url('/fonts/AkiraExpanded-SuperBold.woff2') format('woff2'),
+    url('/fonts/AkiraExpanded-SuperBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}

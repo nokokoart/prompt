@@ -2,9 +2,6 @@ import * as React from 'react';
 
 import { ChakraProvider, ColorModeScript, CSSReset } from '@chakra-ui/react';
 
-import '@fontsource/kanit/300.css';
-import '@fontsource/kanit/400.css';
-import '@fontsource/kanit/700.css';
 import * as ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
